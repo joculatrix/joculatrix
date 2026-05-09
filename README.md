@@ -1,31 +1,12 @@
 ## joculatrix
 
-I'm a recent college grad looking for work in programming! I mainly write projects either to
-cement learning a new technology or concept, or to create new actually usable software to
-solve personal preferences that steer me away from other existing tools.
+Current MS student in Computer Science.
 
-```haskell
-joculatrix :: Programmer
-joculatrix = Programmer { name = "Sloane"
-                        , pronouns = [ She, Her ]    -- (🏳️‍⚧️)
-                        , favLanguages =
-                            [ Rust
-                            , C
-                            , Cpp
-                            , Haskell                -- honorable mention <3
-                            ]
-                        , mainInterests =
-                            [ SystemsProgramming
-                            , Compilers
-                            , FunctionalProgramming
-                            , Theory
-                            ]
-                        , editor = Neovim
-                        , platform = Linux
-                        , currentMainProject = polypody
-                        }
-    where polypody = "https://github.com/joculatrix/polypody"
-```
+Primary interests:
+
+- Compiler development & language design
+- Operating systems development
+- Privacy-oriented software
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
