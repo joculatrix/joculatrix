@@ -2,6 +2,9 @@
 
 Current MS student in Computer Science.
 
+I've moved away from using Github for most of my personal work. Going forward I will use it primarily to interact with
+other projects and repositories.
+
 Primary interests:
 
 - Compiler development & language design
